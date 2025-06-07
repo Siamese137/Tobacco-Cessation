@@ -37,3 +37,5 @@ The above results can be easily replicated by:
 1. Opening the `Code.ipynb` file.
 2. Updating the dataset path in the data loading cell.
 3. Running all cells sequentially to train the model and view performance metrics.
+
+We have included a sample subset of the dataset for easy code execution. The full dataset download link and filtering instructions to obtain the variables of interest are detailed in the accompanying paper.
